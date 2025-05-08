@@ -1,3 +1,28 @@
+# React Chatbot
+
+This Next.js is boilerplate for integrating a [Botpress](https://botpress.com/) bot into React using [pre-built React Components](https://botpress.com/docs/webchat/webchat-components/component-library/fab).
+You can watch the [video]() where I built this.
+
+## Setup
+
+Run:
+
+```sh
+npm i
+```
+
+Create a `.env.local` file and add:
+
+```
+NEXT_PUBLIC_CLIENT_ID=YOUR_BOT_CLIENT_ID
+```
+
+Where `YOUR_BOT_CLIENT_ID` is your bot's client ID. More details [here](https://botpress.com/docs/webchat/webchat-components/get-started#:~:text=Obtain%20your%20Client%20ID).
+
+--
+
+## Next.js Boilerplate
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
