@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import Chat from "./chat";
 
 export default function Home() {
   return (
@@ -89,6 +90,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <Chat />
       </footer>
     </div>
   );
