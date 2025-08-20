@@ -1,7 +1,7 @@
 # React Chatbot
 
 This Next.js is boilerplate for integrating a [Botpress](https://botpress.com/) bot into React using [pre-built React Components](https://botpress.com/docs/webchat/webchat-components/component-library/fab).
-You can watch the [video]() where I built this.
+You can watch the [video](https://www.youtube.com/watch?v=4je2_HMCXU0) where I built this.
 
 ## Setup
 
